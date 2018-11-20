@@ -1,6 +1,6 @@
 # kourouklides.github.io
 
-My personal website
+My personal website (under construction)
 
 Main link:
 [http://www.kourouklides.com/](ttp://www.kourouklides.com/)
