@@ -3,7 +3,7 @@
 My personal website (under construction)
 
 Main link:
-[http://www.kourouklides.com/](ttp://www.kourouklides.com/)
+http://kourouklides.github.io/](http://kourouklides.github.io/) 
 
 <br /> <br />
   
